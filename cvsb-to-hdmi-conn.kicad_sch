@@ -2671,8 +2671,21 @@
     (pin "1" (uuid 295cf77c-9950-4aa8-bdcd-968a803e2d8b))
   )
 
+  (sheet (at 54.61 142.24) (size 52.07 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5674e1dc-71af-4906-a3b6-be98e2c5093c)
+    (property "Sheet name" "adv7401" (id 0) (at 54.61 141.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "adv7401.kicad_sch" (id 1) (at 54.61 168.2246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/5674e1dc-71af-4906-a3b6-be98e2c5093c" (page "2"))
   )
 
   (symbol_instances

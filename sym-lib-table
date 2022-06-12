@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Analog_Devices_Video")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/Analog_Devices_Video.kicad_sym")(options "")(descr ""))
+)
